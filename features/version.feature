@@ -1,3 +1,4 @@
+@focus
 Feature: ec cli version subcommand
   The ec command line can output the version nicely
 
